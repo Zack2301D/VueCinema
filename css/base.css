@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background: var(--bg);
+    color: var(--w);
+    font-family: var(--cr);
+}
+
+.container {
+    max-width: 1140px;
+    padding: 0 15px;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+}
+
+:root {
+    --bg: #040D1F;
+    --w: white;
+    --lo: #ED8E00;
+    --or: #F18128;
+    --cr: 'CR', sans-serif;
+    --cb: 'CB', sans-serif;
+    --mr: 'MR', sans-serif;
+    --mb: 'MB', sans-serif;
+    --rr: 'RR', sans-serif;
+    --rm: 'RM', sans-serif;
+}
