@@ -20,10 +20,10 @@
 
 @font-face {
     font-family: 'RR';
-    src: url(../fonts/Roboto/Comfortaa-Regular.ttf) format("truetype");
+    src: url(../fonts/Roboto/Roboto-Regular.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'RB';
-    src: url(../fonts/Roboto/Comfortaa-Bold.ttf) format("truetype");
+    font-family: 'RM';
+    src: url(../fonts/Roboto/Roboto-Medium.ttf) format("truetype");
 }
