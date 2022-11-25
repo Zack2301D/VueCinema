@@ -49,3 +49,19 @@ body {
     background: var(--or);
     color: var(--w);
 }
+
+.title {
+    display: flex;
+    align-items: center;
+}
+
+.heading {
+    font-family: var(--cr);
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 40px;
+    padding-bottom: 10px;
+    border: 2px solid var(--or);
+    color: var(--or);
+    text-transform: capitalize;
+}
